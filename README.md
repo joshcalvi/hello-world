@@ -1,2 +1,2 @@
 # hello-world
-Practice flow repository
+Practice flow repository, just learning git
